@@ -1,7 +1,7 @@
 # Professional Biography
 
 
-##Contact Information
+## Contact Information
 
 __First Name:__ Rohan
 __Last Name:__ Kapoor
@@ -11,10 +11,10 @@ __Contact Number:__ +1 (513) 293-8004 ·
 __e-portfolio:__ https://rohankapoor806.wixsite.com/rk1221uc
 
 
-##Co-op Experience
+## Co-op Experience
 
-####Accenture - CBTS Cincinnati, OH
-######Cloud Operations and Automation Intern Sep 2019 - Dec 2019
+#### Accenture - CBTS Cincinnati, OH
+###### Cloud Operations and Automation Intern Sep 2019 - Dec 2019
 * Worked with the operations team on an On-Prem migration to Azure cloud
 * Managed the operations and transition of the azure cloud
 * Involved in enhancing the operations of the managed azure cloud environment.
@@ -33,8 +33,8 @@ interfaces (NICs), VMs and subnets
 * Created, managed, monitored VMs using Windows Azure portal
 
 
-####Honeywell Mason, OH
-######Quality Assurance and Automation Intern Jan 2019 - Aug 2019
+#### Honeywell Mason, OH
+###### Quality Assurance and Automation Intern Jan 2019 - Aug 2019
 * Developed and published an ASP.NET core Web Application responsible for fostering windows
 updates from target machines
 * Wrote Unit Test cases for the developed application
@@ -48,8 +48,8 @@ Postman
 * Side label data analyses using test statistics and ML algorithm
 
 
-####Accenture - CBTS Cincinnati, OH
-######Infrastructure Intern Jan 2018 - May 2018
+#### Accenture - CBTS Cincinnati, OH
+###### Infrastructure Intern Jan 2018 - May 2018
 * Worked on a cloud automation project using VMware’s vRealize suite
 * Used vRealize Automation console and Orchestrator tool to build, configure and manage tenants
 and business groups
@@ -62,10 +62,10 @@ delivery project
 * Helped the Tools team in automating incident discovery
 
 
-##Project Sought
+## Project Sought
 
 I am seeking a project where I could develop a light-weight mobile based application. My focus areas are going to be:
 * A light-weight and portable application that can be hosted on a cluster of docker containers
 * Easy of navigation for the end-user
 
-###End
+### End
