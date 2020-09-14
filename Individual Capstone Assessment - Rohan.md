@@ -2,7 +2,7 @@
 
 
 
-###Senior Design Project
+### Senior Design Project
 
 The senior design project, from an academic perspective, is all about implementing the skills learned in and outside of the classroom. This full-stack web development project will give me an opportunity to better understand user requirements and in turn reciprocate it in the form of a highly user-friendly and adaptable User Interface. In addition, this project will also allow me to use some valuable knowledge that I have gained from some classes like Introduction to Cloud Computing and Software engineering to make the web application robust, dependable and portable. This project is not only a great addition to my resume but also a great opportunity to upskill myself.
 
@@ -17,4 +17,4 @@ My pre-liminary approach consists of outlining a broad, step-by-step, plan of at
 
 
 
-###End
+### End
