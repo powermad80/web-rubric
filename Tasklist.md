@@ -3,9 +3,12 @@
 1. Design tentative login screen
 2. Design tentative landing page
 3. Set up front-end functions to correspond to planned API endpoints
-4. Implement interface for class spreadsheet file upload
-5. Design application database architecture
-6. Research and decide on database framework most appropriate for job
+4. Design professor's tool - rubric upload & edit
+5. Design professor's tool - rubric fill per student
+6. Design student's tool - project upload & view feedback
+7. Implement interface for class spreadsheet file upload
+8. Design application database architecture
+9. Research and decide on database framework most appropriate for job
 #### Rohan Kapoor
 1. Initialize a barebones back-end in express.js to serve the front-end website files
 2. Write back-end api endpoint to accept an uploaded file, parse it as a sheet of student data
