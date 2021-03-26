@@ -1,0 +1,47 @@
+.pointButtons button {
+    width: 30px;
+    height: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: auto;
+    vertical-align: middle;
+    border-radius: 5px;
+    font-size: 16pt;
+    display: inline-block;
+}
+
+.rubricEditor input {
+    padding-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.rmTD {
+    vertical-align: middle;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.rubricEditor textarea {
+    resize: both;
+    width: 150px;
+}
+
+.critButton {
+    margin-top: 5px;
+    width: 220px;
+    height: 50px;
+    font-size: 16pt;
+    border-radius: 5px;
+}
+
+.saveButton {
+    margin-top: 5px;
+    width: 120px;
+    height: 50px;
+    font-size: 16pt;
+    border-radius: 5px;
+    margin-left: 5px;
+}

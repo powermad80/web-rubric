@@ -2,6 +2,7 @@
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  background-color: black;
 }
 
 html {
@@ -15,4 +16,16 @@ html {
 
 .box-shadow {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.navbar-expand-sm, .navbar-toggleable-sm, .ng-white, .border-bottom, .box-shadow, .mb-3 {
+  background-color: black;
+}
+
+.text-dark {
+  color: white;
+}
+
+img { 
+  height: 50px;
 }

@@ -9,14 +9,18 @@ export class Criteria extends Component {
         super(props);
         this.maxPoints = this.props.maxPoints;
         this.details = this.props.details;
+        this.descChange = this.props.descChange;
+        this.detChange = this.props.detChange;
+        this.id = this.props.id;
+        this.delCrit = this.props.delCrit;
     }
 
     render () {
         return (<tr>
-                <button>[X]</button>
-                <td><input type={"text"} value={this.details.description}></input></td>
+                <td className={"rmTD"} onClick={() => this.delCrit(this.id)}>[X]</td>
+                <td><textarea onChange={ (e) => this.descChange(this.id, e.target.value)} value={this.details.description}></textarea></td>
             {this.details.details.map( det => (
-                <td>{det.text}</td>
+                <td><textarea onChange={ (e) => this.detChange(det.id, this.id, e.target.value)} value={det.text}></textarea></td>
             ))}
         </tr>)
     }
