@@ -167,11 +167,11 @@ SCCT1.9 Unit
 
 SGAT1.1 **Server Grades Access Test**
 
-SGAT1.2 Tests function for student to access assigned grades
+SGAT1.2 Tests function for professor to access assigned grades
 
-SGAT1.3 Test will run the function to fetch a list of grade entries associated with a student on a test database known to contain some entries valid for that student, and some for others, and validate that the function returns all and only the entries assigned to that student
+SGAT1.3 Test will run the function to fetch a list of grade entries associated with a class on a test database known to contain some entries valid for some students
 
-SGAT1.4 Inputs: test database, student identifier, identifiers for known valid list of database entries
+SGAT1.4 Inputs: test database, identifiers for known valid list of database entries
 
 SGAT1.5 Outputs: "True" if database entries returned all match known list of correct entries, "False" if there is any deviation (any correct entry missing, any incorrect entry present)
 
