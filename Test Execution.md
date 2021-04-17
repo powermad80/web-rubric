@@ -11,9 +11,13 @@
 * Text in top-right corner of screen reads "Log out", indicating user's login status
 #### Test Execution History
 **2021-4-10**
+
 Execution type: manual
+
 Tester: Hannah Dubusker
+
 Result: pass
+
 
 
 ### WRET1.1 Web Rubric Edit Test
@@ -29,9 +33,13 @@ Result: pass
 * All changes made are reflected in view exactly as input on editor page
 #### Test Execution History
 **2021-4-10**
+
 Execution type: manual
+
 Tester: Hannah Dubusker
+
 Result: pass
+
 
 ### WRCT1.1 Web Rubric Class Test
 #### Steps:
@@ -42,9 +50,13 @@ Result: pass
 * View on page populates with student data exactly as written in the uploaded spreadsheet
 #### Test Execution History
 **2021-4-10**
+
 Execution type: manual
+
 Tester: Hannah Dubusker
+
 Result: pass
+
 
 ### SGAT1.1 Server Grades Access Test
 #### Steps:
@@ -54,9 +66,13 @@ Result: pass
 * Web view populates right-hand table with all grades in database associated with the clicked student
 #### Test Execution History
 **2021-4-10**
+
 Execution type: manual
+
 Tester: Hannah Dubusker
+
 Result: pass
+
 
 ### SCCT1.1 Server Canvas Connection Test
 #### Steps:
@@ -65,10 +81,15 @@ Result: pass
 * Function returns valid and verifiable data
 #### Test Execution History
 **2021-4-3**
+
 Execution type: automatic
+
 Test author: Hannah Dubusker
+
 Result: fail
+
 **Notes: Canvas API for ASP.NET frameworks poorly supported, and security concerns exist for this application. Difficulties with getting this passing may indicate need for different (manual?) approach to populating data.**
+
 
 ### SSPT1.1 Server Spreadsheet Parse Test
 #### Steps:
@@ -79,9 +100,13 @@ Result: fail
 * Rubric editor populates with data accurately reflecting the spreadsheet file
 #### Test Execution History
 **2021-4-10**
+
 Execution type: manual
+
 Tester: Hannah Dubusker
+
 Result: pass
+
 
 ### SAAT1.1 Server Account Association Test
 #### 2021-4-3: Test Depreciated - functionality no longer part of project scope
@@ -101,6 +126,10 @@ Result: pass
 * In right-hand table, the exact grade input is displayed as assigned to the student
 #### Test Execution History
 **2021-4-10**
+
 Execution type: manual
+
 Tester: Hannah Dubusker
+
 Result: pass
+
