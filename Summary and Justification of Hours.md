@@ -76,3 +76,5 @@ As the lead developer, most of my hours were spent on major design consideration
 
 ## Justification
 As the project manager and devleoper contributor, most of my hours were spent on brainstorming, structuring, designing, documenting and managing the overall intricacies of the project. The initial discussion with the advisor in this past fall semester took a good chuck of hours which was further extended to provide a concrete structure, gather requirements, define milestones and estimate overall project delivery time and cost. I was heavily involved in documenting everything from design, planning and requirements to creating and revising documents required for completing assignemnts. As a developer contributor on this project, I primarily worked on the Rubric Editor functionality and integrating the UC Canvas API with our web-application to implement View Student functionality. I also spent significant amount of hours periodically connecting with the advisor and discussing roadblocks, presenting solutions/alternative features and gathering requirements as per changing features and needs of the project.
+
+# Total Project Hours: 172
